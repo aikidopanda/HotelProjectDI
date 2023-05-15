@@ -1,5 +1,5 @@
 """
-WSGI config for Hotel_project project.
+WSGI config for hotel project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
